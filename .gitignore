@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+executed_*.ipynb
+data/StudentPerformanceFactors.csv
